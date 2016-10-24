@@ -232,3 +232,7 @@ used to describe a range of pale colors from a yellow-green to bluish-gray
 * gleam n. 微光
 * fair adj. 美丽的，白皙的，【气象】晴朗的  e.g fair hair and blue eyes
 * yearning n. 渴望
+# 20161024
+* domicile n. 住所，永久居住地，公司等商业机构的正式地址
+In the eyes of the law, the domicile can also be a legal residence, the address from which one registers to vote, licenses a car, and pays incom tax.
+* dwelling n. 住所
