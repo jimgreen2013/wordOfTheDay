@@ -5,7 +5,8 @@
 * Principal Scientist 首席科学家
 * intermediary n. 中间人；媒介物
 # 20160926
-* tantivy adj. 疾速的 n. 疾驱
+* tantivy adv. 疾速的 n. 疾驱
+e.g The house rushed tantivy over the dirt roads that wound through the fields and pastures.
 * gallop n. 疾驰 vi. 飞驰  at a gallop
 * hoof n. 蹄；人的脚
 * blare n. 嘟嘟声
