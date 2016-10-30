@@ -19,14 +19,15 @@ e.g The house rushed tantivy over the dirt roads that wound through the fields a
 * pasture n. 草地；牧场
 # 20160927
 * peculiar 特殊的；独特的；奇怪的；罕见的
+Peculiar comes from Latin peculiaris, an adjective meaning "privately owned" or "special" that is derived from the word for "property", peculium. Those words are congnate with pecu, a word for "cattle" that is also etymologically linked to a few words related to money.
 同类词，pecu 和钱有关
-* pecuniary adj. 金钱的
+* pecuniary adj. 金钱的 e.g that make pecuniary sense
 * peculate vt. 挪用（公款等）
-* embezzle vt. 盗用（公款等），贪污
-* impecunious adj. 贫穷的
-* eccentric adj. 古怪的
-* cognate adj. 同类的
-* spectacular adj. 壮观的 
+* embezzle vt. 盗用（公款等），贪污  e.g He was caught embezzling money from his client.
+* impecunious adj. 贫穷的 e.g they were so impecunious that they couldn't afford to give one another even token Christmas gifts.
+* eccentric adj. 古怪的 
+* cognate adj. 同类的 
+* spectacular adj. 壮观的 e.g a spectacular play in a football game
 # 20160928
 * vamoose v. 匆匆离开
 * rough adj./v. 粗糙的，粗野的
@@ -293,3 +294,32 @@ or a photograh might be imbued with a sense of melancholy.
 * agenda n. 议程；日常工作事项
 * geopolitical adj. 地理政治学的
 # 20161029
+* osculate verb. 接吻 e.g One thing I forget to ask the guy in the bar:When his significant other ended their relationship, did she at least osculate him goodbye?
+Today osculate is used in geometry for the action of a pair of curves or surfaces that touch so that they have a common tangent at the point of contact. When osculate is used to mean "kiss", the context is typically humourous.
+* geometry n. 几何学
+* tangent adj. 切线的，相切的
+* attorney n. 律师
+* officiant n. 主祭；司仪牧师
+* groom n. 新郎
+# 20161030
+* titivate verb. 化妆，装饰 e.g It was instantly clear, however, that she had not been idle, but busy titivating: painting her nails, washing her hair, doing her face...
+The origins of titivate are uncertain, but it may formed from English words tidy(整齐的) and renovate.
+同义词辨析
+相同点：Titivate, spruce, smarten and spiff all mean "to make a person or thing neater or more attractive."
+不同点：
+Titivate often refers to making small additions or alterations in attire.  e.g: titivate the costume with sequins and other accesories.
+Titivate can also be used figuratively  e.g titivaing the script for Broadway.
+Spruce up sometimes used for cosmetic changes or renovation	that give the appearance of newness  e.g: Spruce the house with new shutters and fresh paint before trying to sell it.
+Smarten up and spiff up both mean to improve in appearance often by making more neat or stylish  e.g: the tail smarten up the suit with minor alterations. he needed some time to spiff himself up for the party.
+* spruce adj. 整洁的
+* spiff vt. 把...打扮漂亮，使整洁
+* nail n. 指甲
+* stroll v. 散步
+* renovate vt. 更新，修复
+* attire n. 服装
+* sequin n. 作衣服饰物之用的小金属片
+* accessory n. 配件
+* figuratively adv. 比喻地；象征性地
+* Broadway n. 百老汇（美国纽约市戏院集中的一条街）
+* cosmetic adj. 美容的，化妆的
+* stylish adj. 时髦的
