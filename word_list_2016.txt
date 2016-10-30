@@ -268,7 +268,7 @@ or a photograh might be imbued with a sense of melancholy.
 * beatitude n. 祝福
 * utmost adj. 极限，最大可能
 * bliss n. 狂喜
-* comsummate adj. 极致的，完美的
+* consummate adj. 极致的，完美的
 * theology n. 神学；宗教体系
 * allusion n. 典故
 * sermon n. 布道
@@ -283,8 +283,8 @@ or a photograh might be imbued with a sense of melancholy.
 * nest-like 巢状的
 * venue n. 演出地点
 * Sacramento n. 萨克拉门托（美国加州首府）
-* refurbish vt. 刷新
-* neno n. 霓虹灯；氖（10号元素，符号Ne）
+* refurbish vt. 刷新;修复
+* neon n. 霓虹灯；氖（10号元素，符号Ne）
 * microbrewery n. 小型啤酒厂
 # 20161028
 * variegated adj. 杂色的；斑驳的；富于变化的
