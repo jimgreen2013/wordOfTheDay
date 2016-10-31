@@ -18,7 +18,7 @@ e.g The house rushed tantivy over the dirt roads that wound through the fields a
 * jumble vi. 混杂；搀杂
 * pasture n. 草地；牧场
 # 20160927
-* peculiar 特殊的；独特的；奇怪的；罕见的
+* peculiar 特殊的；独有的；奇怪的；罕见的 e.g Because we are not like other people, we are peculiar.
 Peculiar comes from Latin peculiaris, an adjective meaning "privately owned" or "special" that is derived from the word for "property", peculium. Those words are congnate with pecu, a word for "cattle" that is also etymologically linked to a few words related to money.
 同类词，pecu 和钱有关
 * pecuniary adj. 金钱的 e.g that make pecuniary sense
@@ -28,13 +28,18 @@ Peculiar comes from Latin peculiaris, an adjective meaning "privately owned" or 
 * eccentric adj. 古怪的 
 * cognate adj. 同类的 
 * spectacular adj. 壮观的 e.g a spectacular play in a football game
+* shake v. 摇动 过去分词 shook e.g Emma shook her head
+* preposition n. 介词
 # 20160928
-* vamoose v. 匆匆离开
+* vamoose v. 匆匆离开 e.g With the sherriff and his posses hot on their tails, the bank robbers knew they had better vamoose.
 * rough adj./v. 粗糙的，粗野的
 * prospector n. 探勘者，采矿者
 * rub v. 摩擦
 * elbow n. 肘部
 * saloon n. 酒吧；大厅
+* sherriff n. 州长
+* posse n. 民防团
+* crook n. 坏蛋
 # 20160929
 * cabal n. 阴谋（尤指政治上的）；阴谋集团(Clifford, Arlington, Buckingham, Ashley, and Lauderdale) spell cabal
 * artifice n. 诡计，欺骗
@@ -247,7 +252,7 @@ In the eyes of the law, the domicile can also be a legal residence, the address 
 * dwelling n. 住所
 # 20161025
 * imbue verb. 浸染，使渗透；赋予，天生具有
-Like its synonym infuse, imbue implies the introduction of one thing into another so as to affect it throuthout. A nation can be imbued with pride, for example,
+Like its synonym infuse, imbue implies the introduction of one thing into another so as to affect it throughout. A nation can be imbued with pride, for example,
 or a photograh might be imbued with a sense of melancholy.
 * permeate vt. 渗透，弥漫
 * dye vt. 把...染上颜色
@@ -323,3 +328,15 @@ Smarten up and spiff up both mean to improve in appearance often by making more 
 * Broadway n. 百老汇（美国纽约市戏院集中的一条街）
 * cosmetic adj. 美容的，化妆的
 * stylish adj. 时髦的
+# 20161031
+* sepulchre n. 坟墓，（祭坛的）圣物匣
+* sepulture n. 埋葬，坟墓
+* burial n. 葬礼
+* tomb n. 坟墓
+* receptable n. 容器，插座
+* relic n. 遗迹，纪念物
+* altar n. 祭坛，圣坛
+* dismal adj. 凄凉的，阴沉的
+* papacy n. 罗马教皇职位
+* memorial n. 纪念仪式
+* mausoleum n. 陵墓
