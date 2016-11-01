@@ -33,18 +33,25 @@ Peculiar comes from Latin peculiaris, an adjective meaning "privately owned" or 
 # 20160928
 * vamoose v. 匆匆离开 e.g With the sherriff and his posses hot on their tails, the bank robbers knew they had better vamoose.
 * rough adj./v. 粗糙的，粗野的
-* prospector n. 探勘者，采矿者
-* rub v. 摩擦
+* prospector n. 探勘者，采矿者 e.g gold prospector
+* rub v. 摩擦 
 * elbow n. 肘部
+rub elbows with 交际，接触
+* intermix v. 混杂，混合
+* cowpoke n. 牛仔
+* dude n. 男人，小伙子
+* proximity n. 接近；邻近
 * saloon n. 酒吧；大厅
 * sherriff n. 州长
 * posse n. 民防团
 * crook n. 坏蛋
+* catch on with 迎合
 # 20160929
 * cabal n. 阴谋（尤指政治上的）；阴谋集团(Clifford, Arlington, Buckingham, Ashley, and Lauderdale) spell cabal
 * artifice n. 诡计，欺骗
 * intrigue n. 阴谋，诡计
 * dub vt. 授予称号
+* invidious adj. 引人反感的
 * conservative adj.保守的 n. 保守派 守旧者
 * sway v. 影响
 * conspiracy n. 阴谋
@@ -340,3 +347,14 @@ Smarten up and spiff up both mean to improve in appearance often by making more 
 * papacy n. 罗马教皇职位
 * memorial n. 纪念仪式
 * mausoleum n. 陵墓
+# 20161101
+* gravid adj. 怀孕的; 充满
+gravid can refer to a female who is literally pregnant, and it has also the figurative meanings of pregnant:"full or teeming" and "meaningful."Thus, a writer may be gravid with ideas as she sits down to write; a cloud may gravid with rain; or a speaker may make gravid pause before announcing his remarkble findings.
+* distend v. 扩张
+* teem v. 充满
+* continuum n. 
+* agitation n. 激烈争论；（情绪等）激动不安
+* personhood n. 人格
+* restorative adj. 滋补的
+* cheekbone n. 颧骨
+* rediance n. 辐射，容光焕发
