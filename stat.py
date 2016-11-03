@@ -15,13 +15,15 @@ try:
     f = open('./word_list_2016.txt', 'r')
     date = []
     count = []
-    temp = -1
+    temp = 0
+    isFirst = True
     for line in f:
         if line.startswith('#'):
             date.append(line[2:len(line) - 1])
-            if temp >= 0:
+            if not isFirst:
                 count.append(temp)
                 temp = 0
+            isFirst = False
         elif line.startswith('*'):
             temp = temp + 1
     count.append(temp)
