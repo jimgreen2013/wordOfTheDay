@@ -64,6 +64,9 @@ rub elbows with 交际，接触
 * myth n. 神话，虚构的事
 # 20160930
 * wobegone adj. 悲哀的；寒碜的；忧愁的
+* afflict vt. 折磨
+* woe n. 悲痛
+* woeful adj. 悲哀的，悲惨的
 # 20161001
 * empyreal adj. 苍天的;由纯净之火或光形成的
 # 20161006
@@ -96,7 +99,7 @@ rub elbows with 交际，接触
 * repugnance n. 反感；厌恶；抵触
 * scrub v. 擦洗
 * graffito n. 墙上乱写乱画的东西；涂鸦 复数 graffiti
-#20161010
+# 20161010
 * roister vi. 喝酒喧闹
 * revelry n. 狂欢
 * carouse n. 喧闹的酒会或宴会
@@ -374,3 +377,8 @@ gravid can refer to a female who is literally pregnant, and it has also the figu
 * feckless adj. 软弱的
 * radically adv. 彻底地
 * predecessor n. 前任
+# 20161103
+* echelon n. 梯队，阶层
+* ladder n. 阶梯  e.g ladder of success
+* altitude n. 海拔，高度 
+* massage vt. 改动
