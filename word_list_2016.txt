@@ -564,11 +564,19 @@ an other sense of impute means "to calculate as a value or cost (as for taxation
 # 20161201
 * thaumaturgy n. 魔术，奇术
 It can also be used of things that merely seem miraculous and unexplainable
-* applicable adj. 可适用的
+* applicable adj. \ˈa-pli-kə-bəl also ə-ˈpli-kə-\ 可适用的
 * incantation n. 咒语
-* miraculous adj. 不可思议的，奇迹的
+* miraculous adj. \mə-ˈra-kyə-ləs\ 不可思议的，奇迹的
 * pilgrimage n. 漫游，朝圣之行
-* posthumous adj. 死后的；遗腹的；作者死后出版的
+* posthumous adj. ['pɑstʃəməs] 死后的；遗腹的；作者死后出版的
 * hysteria n. 歇斯底里；不正常的兴奋
 * spiral n. 螺旋；漩涡
 * outmode v. 使...过时，不流行
+# 20161202
+* wane v. 1:to decrease in size, extent, or degree  2:to fall gradually from power, prosperity, or influence
+The traditional opposite of wane is wax, a once common but now infrequentlly used synonym of grow.
+* Hippolyta n. 希波吕忒（希腊神话中的亚马孙族女皇）
+* Thesesus n. (希腊)提修斯，希腊神话里的英雄，曾远征阿妈宗(Amazon), 克之，取其女Hippolyta
+* nuptial adj. 婚礼的
+* methinks vi. 我认为
+* lunar adj. 月亮的
