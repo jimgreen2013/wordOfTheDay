@@ -627,7 +627,7 @@ The traditional opposite of wane is wax, a once common but now infrequentlly use
 * Akkadian [ə'keidiən] adj. (上古美不布达米亚地区的）阿卡德人的；阿卡德语的
 * Chaldean [kæl'di:ən] adj. 占星术的;迦勒底人的（居住在现在的伊拉克）
 * exposition n. 阐述，博览会
-* mythology n. 神话；神话学
+* mythology [mɪ'θɑlədʒi] n. 神话；神话学
 * iraqi adj. 伊拉克人的
 * palace ['pælɪs] n. 宫殿，豪华住宅
 * opulence  ['ɑpjələns] n. 富裕，丰富
@@ -674,3 +674,30 @@ Today, salient is usually used to describe things that are physically promient(s
 * yore [jɔr] n. 从前
 * artillery [ɑr'tɪləri] n. 火炮，大炮
 * wagon ['wægən] n. 火车，四轮马车
+# 20161209
+* daedal \ˈdē-dəl\ adj. 巧妙的；错综复杂的；丰富多彩的，色彩缤纷的 
+* daedalian [di'deiljən] adj. 巧妙的，错综复杂的
+* artistic [ɑr'tɪstɪk] adj. 艺术的，风雅的，有美感的
+* adorn v. 装饰
+* intricate adj. 错综复杂的
+* Crete n. [希腊]克里特岛
+* Icarus ['ikərəs; 'aikə-] n. 伊卡洛斯（代达罗斯的儿子）
+* architect ['ɑrkɪtɛkt] n. 建筑师
+* sculptor ['skʌlptɚ] n. 雕刻家
+* labyrinth ['læbərɪnθ] n. 迷宫
+* Minos ['mainɔs] n. 迈诺斯（希腊神话中克里特岛的王， 死后做阴间的法官）
+* commuting n. 乘公交车上下班
+* testament ['tɛstəmənt] n. [法] 遗嘱；圣约；确实的证明
+* foolhardy  ['fulhɑrdi] adj. 有勇无谋的，蛮干
+# 20161210
+* objurgation  [,əbdʒə:'ɡeiʃən] n. 非难；叱责
+ob-(against) jur-(in Lation means law) jurgare(to quarrel)
+* rebuke [rɪ'bjʊk] n. 指责
+* harsh [hɑrʃ] adj. 严厉的
+* scold [skold] v./n. 责骂
+* implication ['ɪmplɪ'keʃən] n. 含义，暗示
+* perjury ['pɝdʒəri] n. 伪证
+* abjure [æb'dʒuə] vt. 发誓弃绝（国籍等），发誓放弃（权力等）
+* jurisprudence [,dʒʊrɪs'prudns] n. 法律体系
+* ardent ['ɑrdnt] adj. 热心的
+* piety 'paɪəti] adj. 孝敬；虔诚
