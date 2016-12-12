@@ -700,7 +700,7 @@ ob-(against) jur-(in Lation means law) jurgare(to quarrel)
 * abjure [æb'dʒuə] vt. 发誓弃绝（国籍等），发誓放弃（权力等）
 * jurisprudence [,dʒʊrɪs'prudns] n. 法律体系
 * ardent ['ɑrdnt] adj. 热心的
-* piety 'paɪəti] n. 孝敬；虔诚
+* piety ['paɪəti] n. 孝敬；虔诚
 # 20161211
 * fillip ['filip] v. 用手指轻弹；轻快的敲打；刺激，激起 
 * nail [nel] n. [解剖]指甲
@@ -711,3 +711,28 @@ ob-(against) jur-(in Lation means law) jurgare(to quarrel)
 * crumb [krʌm] n. 面包屑
 * fundraising  ['fʌnd,rezɪŋ] n. 筹款
 * senior source 高层消息人士
+# 20161212
+* Methuselah [mɪ'θ(j)uːz(ə)lə] n. 1.【圣经】玛土撒拉(以诺之子，据传享年969岁) 2. 玛土撒拉式的老人；年岁极高的老人 3. 特大号酒瓶(约6公升)
+* Jeroboam [,dʒɛrə'boəm] n. 耶罗波安（古代以色列国王）
+* Salmanazar [,sælmə'næzə] n. 萨尔玛那萨尔 
+* Balthazar [bæl'θæzə] n. 巴尔萨泽 
+* Nebuchadnezzar [,nebjʊkəd'nezə] n.尼布甲尼撒
+Jeroboam, Methuselah,Salmanazar,Balthazar,Nebuchadnezzar都是圣经中的人物，也都有大号酒瓶的意思
+1 Jerboam = 4 * 750毫升的酒瓶 = 3升
+1 Methuselah = 8 * 标准酒瓶 = 6升
+1 Salmanazar = 12
+1 Balthazar = 16
+1 Nebuchadnezzar = 20
+* Noah ['nəuə] n. 诺亚
+* oversize adj. 超大型的
+* liter n. [计量] 公升（1公升=1立方分米）
+* larger-than-life adj. 有传奇色彩的
+* biblical ['bɪblɪkl] adj. 圣经的
+* venerable ['vɛnərəbl] adj. 庄严的；珍贵的
+* patriarch ['petrɪɑrk] n. 家长，族长，元老，创始人
+* goblet ['ɡɑblət] n. 酒杯
+* enormous [ɪ'nɔrməs] adj. 庞大的，凶暴的
+* whopping ['wɒpɪŋ] adj. 巨大的，天大的
+* winery ['waɪnəri] n. 酿酒厂
+* champagne [ʃæm'pen] n. 香槟酒
+* Krug  库格香槟
