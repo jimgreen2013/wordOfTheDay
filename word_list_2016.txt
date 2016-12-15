@@ -158,7 +158,7 @@ Nemesis was the Greek goddess of vengeance, a deity who doled out rewards for no
 * deity n. 神
 * dole vt. 发放救济
 * offender n. 冒犯者
-* animosity n. 憎恶，仇意
+* animosity ['ænə'mɑsəti] n. 憎恶，仇意
 # 20161015
 * waggish adj. 爱开玩笑的，滑稽的
 * wag vt. 摇摆，饶舌 n. 摇摆，爱说笑打趣的人
@@ -707,7 +707,7 @@ ob-(against) jur-(in Lation means law) jurgare(to quarrel)
 * snap [snæp] vt. 突然折断;猛咬；啪的关上
 * phonetic [fə'nɛtɪk] adj. 语音学的
 * stin v. 刺痛
-* Mogul n. 蒙古人
+* Mogul ['moɡl] n. 蒙古人
 * crumb [krʌm] n. 面包屑
 * fundraising  ['fʌnd,rezɪŋ] n. 筹款
 * senior source 高层消息人士
@@ -718,11 +718,11 @@ ob-(against) jur-(in Lation means law) jurgare(to quarrel)
 * Balthazar [bæl'θæzə] n. 巴尔萨泽 
 * Nebuchadnezzar [,nebjʊkəd'nezə] n.尼布甲尼撒
 Jeroboam, Methuselah,Salmanazar,Balthazar,Nebuchadnezzar都是圣经中的人物，也都有大号酒瓶的意思
-1 Jerboam = 4 * 750毫升的酒瓶 = 3升
+1 Jeroboam = 4 * 750毫升的酒瓶 = 3升
 1 Methuselah = 8 * 标准酒瓶 = 6升
-1 Salmanazar = 12
-1 Balthazar = 16
-1 Nebuchadnezzar = 20
+1 Salmanazar = 12 * 750 = 9升
+1 Balthazar = 16 * 750 = 12
+1 Nebuchadnezzar = 20 * 750 = 15升
 * Noah ['nəuə] n. 诺亚
 * oversize adj. 超大型的
 * liter n. [计量] 公升（1公升=1立方分米）
@@ -736,3 +736,25 @@ Jeroboam, Methuselah,Salmanazar,Balthazar,Nebuchadnezzar都是圣经中的人物
 * winery ['waɪnəri] n. 酿酒厂
 * champagne [ʃæm'pen] n. 香槟酒
 * Krug  库格香槟
+# 20161215
+* jubilee ['dʒubɪli] n. 1. （犹太史）五十年节（每五十年举行一次庆祝希伯来奴隶的解放）2. 大赦年（天主教二十五年一次） 3.重要的周年纪念日（尤其指50周年）
+4. 欢乐的节日 5. (歌唱未来幸福时光并带有宗教色彩的)黑人欢快民歌 
+* capitalize vt.以大写字母写；使资本化
+* emancipation [ɪ,mænsə'peʃən] n. 解放；释放
+* restoration ['rɛstə'reʃən] n.恢复；王权复辟 
+* Hebrew ['hi:bru:] n./adj. 希伯来人  希伯来人的
+* alienate ['eɪlɪəneɪt] vt. 使疏远，离间
+* omission [ə'mɪʃən] n. 疏忽，遗漏
+* cultivation ['kʌltə'veʃən] n. 培养；耕作；耕种；教化；文雅
+* proclaim [prə'klem] vt. 宣告，公布
+* Catholic [kæθəlɪk] adj. 天主教
+* ordinarily [,ɔrdn'ɛrəli] adv. 通常的，一般的
+* solemnity [sə'lɛmnəti] n. 庄严的，一本正经的
+* rejoice [rɪ'dʒɔɪs] v. 高兴 庆祝
+* jubilation [,dʒubɪ'leʃən] n. 喜欢，庆祝
+* Leviticus [li'vitikəs] n. 《利未记》（圣经《旧约全书》中的一卷）
+* wed [wɛd] v. 结婚  现在分词 wedding 过去式 wedded
+* bliss [blɪs] n. 天赐的福，极大的欢乐
+* Buckingham ['bʌkɪŋəm] n. 白金汉宫（英国皇室）
+* gala ['ɡelə] n. 祝贺，庆祝
+* reign [ren] n. 统治，统治时期 
