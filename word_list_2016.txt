@@ -648,10 +648,10 @@ Today, salient is usually used to describe things that are physically promient(s
 * toad [tod] n. 蟾蜍
 * conspicuously [kəns'pikjuəsli] adv. 显著地，超群地
 * pop up 突然出现
-* hearaldry ['hɛrəldri] n. 纹章，纹章学
+* heraldry ['hɛrəldri] n. 纹章，纹章学
 * rampant ['ræmpənt] adj. 猖獗的，蔓延的，狂暴的，奔放的
 * spout v. 喷出，喷射，滔滔不绝的讲
-* reetoric  ['rɛtərɪk] n. 华丽的辞藻
+* rhetoric  ['rɛtərɪk] n. 华丽的辞藻
 * makeover n. 化妆美容，大转变
 # 20161207
 * bamboozle [bæm'buzl] vt. 欺骗，使困惑，使为难
@@ -661,7 +661,7 @@ Today, salient is usually used to describe things that are physically promient(s
 * hoodwink ['hʊdwɪŋk] vt. 蒙蔽，欺骗
 * Irish adj. 爱尔兰的
 * jargon ['dʒɑrɡən] n. 行话，术语
-* defy vt. 藐视，公然反抗
+* defy vt. 藐视，公然反抗 （过去式defied）
 * slick adj. 华而不实的，光滑的，老套的
 * ballot ['bælət] n./v. 投票
 * deliberately [dɪ'lɪbərətli] adv. 故意地，谨慎地
@@ -679,7 +679,7 @@ Today, salient is usually used to describe things that are physically promient(s
 * daedalian [di'deiljən] adj. 巧妙的，错综复杂的
 * artistic [ɑr'tɪstɪk] adj. 艺术的，风雅的，有美感的
 * adorn v. 装饰
-* intricate adj. 错综复杂的
+* intricate  ['ɪntrɪkət] adj. 错综复杂的
 * Crete n. [希腊]克里特岛
 * Icarus ['ikərəs; 'aikə-] n. 伊卡洛斯（代达罗斯的儿子）
 * architect ['ɑrkɪtɛkt] n. 建筑师
@@ -765,3 +765,36 @@ Jeroboam, Methuselah,Salmanazar,Balthazar,Nebuchadnezzar都是圣经中的人物
 * bite [baɪt] v./n. 咬 刺痛
 * make good sound bites 听起来很棒（但是。。。）
 * stake n. 赌注
+# 20161217
+* lave [leɪv] v. 洗，沐浴，冲刷
+Lave is a monosyllabic word that magically makes the mundane act of washing poetic.
+* lavatory ['lævətɔri] n. 厕所，盥洗室
+* monosyllabic [,mɑnəsɪ'læbɪk] n. 单音节
+* mundane [mʌn'den] adj. 平凡的；宇宙的
+* poetic [po'ɛtɪk] adj. 诗意的
+* tame [teɪm] v. 驯养
+* shrew [ʃru] n. 泼妇，悍妇
+* The Taming of the Shrew 《驯悍记》莎士比亚(Shakespeare)的喜剧
+* basin ['besn] n. 水池；流域；盆地
+* ewer ['jʊɚ] n. 大口水池
+* dainty ['denti] adj. 美味的，讲究的，秀丽的，挑剔的
+* The Old Curiosity Shop 《老古玩店》Charles Dickens
+* shore  [ʃɔr] n. 海滨，支柱
+* captain  [ˈkæptən] n. 队长，首领；船长；上尉；海军上校
+* kneel [nil] v. 下跪 （过去式knelt）
+* breakers n. 碎浪
+# 20161220
+* eternize [ɪ'tɜːnaɪz; iː-] vt. 使永恒，使不变
+* eternalize [ɪ'tɜːnəlaɪz] vt. (等于eternize)
+* eternal [ɪ'tɝnl] adj. 永恒的，不朽的
+* prolong [prəˈlɑːŋ] vt. 延长，拖延
+* immortalize [ɪ'mɔrtəlaɪz] vt. 使不灭；使名垂千古
+* literary [lɪtərɛri] adj. 文学的
+* predate [pri'det] vt. 在日期上早于
+* undistinguished [,ʌndɪ'stɪŋɡwɪʃt] adj. 平凡的；混杂的；听不清的
+* introspection ['ɪntrə'spɛkʃən] n. 内省，反省
+* inaction n. 不活动；懒散
+* consciousness  ['kɑnʃəsnəs] n. 意识，觉悟
+* revelation ['rɛvə'leʃən] n. 启示；出乎意料的事；被揭露的真相
+e.g  "Sometimes it seems that Hopper (1882-1967) could have eternized almost any undistinguished moment of introspection or inaction in anyone's life. That's why his paintings can make us wonder about the opportunities for consciousness and revelation we have been blind to in ourselves."
+— Roberta Smith, The New York Times, 6 June 2013 
