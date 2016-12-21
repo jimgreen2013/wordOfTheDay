@@ -291,7 +291,7 @@ or a photograh might be imbued with a sense of melancholy.
 # 20161027
 * myriad n. 万；极大数量 adj. 不计其数的
 * historian n. 历史学家
-* plural adj. 复数的
+* plural ['plʊrəl] adj. 复数的
 * particle n. 颗粒，【物】质点
 * commentator n. 评论员
 * metallic adj. 金属的
@@ -798,3 +798,16 @@ Lave is a monosyllabic word that magically makes the mundane act of washing poet
 * revelation ['rɛvə'leʃən] n. 启示；出乎意料的事；被揭露的真相
 e.g  "Sometimes it seems that Hopper (1882-1967) could have eternized almost any undistinguished moment of introspection or inaction in anyone's life. That's why his paintings can make us wonder about the opportunities for consciousness and revelation we have been blind to in ourselves."
 — Roberta Smith, The New York Times, 6 June 2013 
+# 20161221
+* purlieu ['pə:lju:] n. 1. 常去的地方 2.（常用复数） 界限，范围 3. 郊外，远郊 4. [常用复数]边缘地区，邻近地区，外围地区 5. 森林的边缘地区
+* environs [ɪn'vaɪrənz] n. 市郊，郊区
+* haunt [hɔnt] n. 栖息地，常去的地方
+* medieval [,midɪ'ivəl] adj. 中世纪
+* perambulation [pə,ræmbju'leʃən] n. 勘查，巡视
+* border ['bɔrdɚ] n. 边界 adj. 与...接壤
+* tract  [trækt] n. 大片土地
+* zig-zag [zig'zæg] adj. 曲折的
+* casino [kə'sino] n. 俱乐部，赌场
+* take a stroll 散步
+* stroll [strol] n./v. 漫步，巡回演出
+* gild [ɡɪld] vt. 镀金
