@@ -102,7 +102,7 @@ rub elbows with 交际，接触
 # 20161010
 * roister vi. 喝酒喧闹
 * revelry n. 狂欢
-* carouse n. 喧闹的酒会或宴会
+* carouse [kə'raʊz] n. 喧闹的酒会或宴会
 * assert vt. 维护，坚持；声称
 * hooliganism n. 流氓行为
 * boisterous adj. 喧闹的；猛烈的
@@ -599,17 +599,17 @@ The traditional opposite of wane is wax, a once common but now infrequentlly use
 * meckrake ['mʌk,rek] v. 揭发丑闻
 * rake vi. 用耙子耙，搜索
 * muck n. 淤泥，垃圾 v. 弄脏
-* manure vt. 施肥于
-* dung vt. 施粪肥于
+* manure [mə'nʊr] vt. 施肥于
+* dung [dʌŋ] vt. 施粪肥于
 * misconduct n. 不端行为
 * prominent adj. 突出的，卓越的
 * preoccupation n. 全神贯注
 * rail vi. 抱怨，责骂 vt. 铺铁轨  n. 铁轨
-* badge n. 勋章
-* hound vt. 追猎
-* evasive adj. 逃避的，托辞的
+* badge [bædʒ] n. 勋章
+* hound [haʊnd]  vt. 追猎 n. 猎狗
+* evasive [ɪ'vesɪv] adj. 逃避的，托辞的
 * groundbreaking n. 动工 adj. 开创性的
-* iconic adj. 图标的，形象的
+* iconic [aɪ'kɑnɪk] adj. 图标的，形象的
 * irreverent [ɪ'rɛvərənt] adj. 不敬的，无理的
 # 20161205
 * ziggurat ['zɪɡəræt n.古代亚述及巴比伦之金字形神塔 
@@ -711,6 +711,7 @@ ob-(against) jur-(in Lation means law) jurgare(to quarrel)
 * crumb [krʌm] n. 面包屑
 * fundraising  ['fʌnd,rezɪŋ] n. 筹款
 * senior source 高层消息人士
+* deaden v. 使...强度减弱
 # 20161212
 * Methuselah [mɪ'θ(j)uːz(ə)lə] n. 1.【圣经】玛土撒拉(以诺之子，据传享年969岁) 2. 玛土撒拉式的老人；年岁极高的老人 3. 特大号酒瓶(约6公升)
 * Jeroboam [,dʒɛrə'boəm] n. 耶罗波安（古代以色列国王）
@@ -759,12 +760,16 @@ Jeroboam, Methuselah,Salmanazar,Balthazar,Nebuchadnezzar都是圣经中的人物
 * gala ['ɡelə] n. 祝贺，庆祝
 * reign [ren] n. 统治，统治时期 
 # 20161216
-* impetuous [ɪm'pɛtʃʊəs] adj. 冲动的，鲁莽的，猛烈的 
+* impetuous [ɪm'pɛtʃʊəs] adj. 冲动的，鲁莽的，猛烈的
+impetous has a range of meaning, from "violent" to "passionate".Often, we put a light touch on the word, as when we refer--somewhat longingly, perhaps--to our "impetuos youth".
 * vehemence ['viːɪm(ə)ns] n. 激烈，热烈
 * indulge [ɪn'dʌldʒ] vt. 满足；纵容；使沉迷于 vi.沉溺
 * bite [baɪt] v./n. 咬 刺痛
 * make good sound bites 听起来很棒（但是。。。）
 * stake n. 赌注
+* impetus n. 动力；促进；冲力
+* assault n./v. 攻击，袭击
+* ardor ['ɑrdɚ] n.热情
 # 20161217
 * lave [leɪv] v. 洗，沐浴，冲刷
 Lave is a monosyllabic word that magically makes the mundane act of washing poetic.
@@ -782,7 +787,7 @@ Lave is a monosyllabic word that magically makes the mundane act of washing poet
 * shore  [ʃɔr] n. 海滨，支柱
 * captain  [ˈkæptən] n. 队长，首领；船长；上尉；海军上校
 * kneel [nil] v. 下跪 （过去式knelt）
-* breakers n. 碎浪
+* breaker n. 碎浪
 # 20161220
 * eternize [ɪ'tɜːnaɪz; iː-] vt. 使永恒，使不变
 * eternalize [ɪ'tɜːnəlaɪz] vt. (等于eternize)
@@ -800,7 +805,9 @@ e.g  "Sometimes it seems that Hopper (1882-1967) could have eternized almost any
 — Roberta Smith, The New York Times, 6 June 2013 
 # 20161221
 * purlieu ['pə:lju:] n. 1. 常去的地方 2.（常用复数） 界限，范围 3. 郊外，远郊 4. [常用复数]边缘地区，邻近地区，外围地区 5. 森林的边缘地区
+* outlying adj. 边远的
 * environs [ɪn'vaɪrənz] n. 市郊，郊区
+* adjacent [ə'dʒesnt] adj. 临近的，毗邻的
 * haunt [hɔnt] n. 栖息地，常去的地方
 * medieval [,midɪ'ivəl] adj. 中世纪
 * perambulation [pə,ræmbju'leʃən] n. 勘查，巡视
@@ -811,3 +818,22 @@ e.g  "Sometimes it seems that Hopper (1882-1967) could have eternized almost any
 * take a stroll 散步
 * stroll [strol] n./v. 漫步，巡回演出
 * gild [ɡɪld] vt. 镀金
+# 20161225
+* wassail ['wɑsel] v. 举杯祝酒，痛饮; [英国方言]挨家挨户唱圣诞节圣歌
+n. 一种热饮 wassail recipe
+* riotous ['raɪətəs] adj. 狂暴的，狂欢的
+* carouse [kə'raʊz] vi. 畅饮；欢宴
+* dialectal [,daiə'lektəl] adj. 方言的
+* thrive [θraɪv] vi. 繁荣，兴旺
+* salutation ['sæljʊ'teʃən] n. 称呼，问候
+* Norse [nɔ:s] n./adj. 挪威
+* toast [tost] vt. 向....什么祝酒，为....干杯
+* cider  ['saɪdɚ] n. 苹果酒，苹果汁
+* spice [spaɪs] n. 香料，调味品
+* beverage ['bɛvərɪdʒ] n. 饮料
+* reveler ['revələ] n. 欢宴者，狂欢者
+* caroler ['kærəlɚ] n. 唱圣歌者
+* vitality [vaɪ'tæləti] n. 活力；生命力
+* orchard ['ɔrtʃɚd] n. 果园
+* praise [prez] n. 赞扬；称颂
+* gunshot ['ɡʌnʃɑt] n. 射击
