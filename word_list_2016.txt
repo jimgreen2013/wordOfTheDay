@@ -397,59 +397,59 @@ Aurum, Latin word for the gold element +  ferre, Latin word meaning "to produce"
 * quartz n. 石英
 * granite n. 花岗岩，堅毅
 # 20161108
-* bully pulpit n. 天字第一号讲坛（白宫）
+* bully ['bʊli] pulpit ['pʊlpɪt] n. 天字第一号讲坛（白宫）
 Bully pulpit comes from the 26th U.S. president, Theodore Roosevelt who observed that the White House was a bully pulpit.
 * prominent adj. 突出的，卓越的
-* expound v. 解释，详细说明
-* browbeat vt. 吓唬；欺辱
-* persuasion n. 说服；信念
-* incumbent n. 现任者
-* exhort v. 劝告
-* monopoly n. 垄断
-* prod v. 刺，捅
-* convene v. 召集
+* expound [ɪk'spaʊnd] v. 解释，详细说明
+* browbeat ['braʊ'bit] vt. 吓唬；欺辱
+* persuasion [pɚ'sweʒn] n. 说服；信念
+* incumbent [ɪn'kʌmbənt] n. 现任者
+* exhort [ɪɡ'zɔrt] v. 劝告
+* monopoly [mə'nɑpəli] n. 垄断
+* prod [prɑd] v. 刺，捅
+* convene [kən'vin] v. 召集 
 # 20161109
-* triptych n. 三幅一联，三张相联
-* hinge n./v. 铰链
-* tablet n. 写字版，平板
-* altarpiece n. 祭坛画
-* trilogy n. 三部曲
+* triptych ['trɪptɪk] n. 三幅一联，三张相联
+* hinge [hɪndʒ] n./v. 铰链
+* tablet ['tæblət] n. 写字版，平板
+* altarpiece ['ɔltɚpis] n. 祭坛画
+* trilogy ['trɪlədʒi] n. 三部曲
 # 20161110
-* elicit vt. 抽出，引出；引起
+* elicit [ɪ'lɪsɪt] vt. 抽出，引出；引起
 prefix e- meaning away
-* latent adj. 潜在的
-* entice vt. 诱使；怂恿
-* illicit adj. 违法的；不正当的
-* solicit v. 征求，请求
-* pottery n. 陶器
+* latent ['letnt] adj. 潜在的
+* entice [ɪn'taɪs] vt. 诱使；怂恿
+* illicit [ɪ'lɪsɪt] adj. 违法的；不正当的
+* solicit [sə'lɪsɪt] v. 征求，请求
+* pottery ['pɑtəri] n. 陶器
 * fray v. 磨损
-* texttile n. 纺织品
-* manuscript n. 手稿
-* decay v. 腐烂，衰退
+* texttile ['tɛkstaɪl] n. 纺织品
+* manuscript ['mænjuskrɪpt] n. 手稿
+* decay [dɪ'ke] v. 腐烂，衰退
 # 20161111
-* ukase n. 政令，法令
-* proclamation n. 公告
-* tariff n. 关税表
-* exclamation point/ exclamation mark 感叹号
-* decree vi. 发布命令
-* pupil n. 学生
+* ukase [juː'keɪz] n. 政令，法令
+* proclamation [,prɑklə'meʃən] n. 公告
+* tariff ['tærɪf] n. 关税表
+* exclamation [,ɛksklə'meʃən] point/ exclamation mark 感叹号
+* decree [dɪ'kri] vi. 发布命令
+* pupil [pjupl] n. 学生
 # 20161112
-* facetioius adj. 诙谐的，爱开玩笑的（尤指在不合适的时候）
-* jest v. 开玩笑
-* facetiae n. 诙谐妙语，滑稽文章
-* estate n. 房地产，财产
-* mesmerize vt. 施催眠术；迷住
-* raucous adj. 沙哑的；刺耳的
+* facetioius [fə'siʃəs] adj. 诙谐的，爱开玩笑的（尤指在不合适的时候）
+* jest [dʒɛst] v. 开玩笑
+* facetiae [fə'siːʃɪiː] n. 诙谐妙语，滑稽文章
+* estate [ɪ'stet] n. 房地产，财产
+* mesmerize ['mɛzməraɪz] vt. 施催眠术；迷住
+* raucous ['rɔkəs] adj. 沙哑的；刺耳的
 # 20161113
-* sabot n. 木鞋，弹底板
+* sabot [sæ'bo] n. 木鞋，弹底板
 The gun-related sense appeared in the mid-1800s with the invention of a wooden gizmo that keep gun shells from shifting in the gun barrel. 
-* strap n. 皮带
+* strap [stræp] n. 皮带
 * instep n. 脚背
 * sandal n. 凉鞋
 * barrel n. 桶，枪管，炮管
 * tube n. 管子
 * deck n. 甲板；行李仓
-* gizmo n. 小装置
+* gizmo ['ɡɪzmo] n. 小装置
 * sabotage n./v. 从事破坏活动
 * spin n. 旋转
 * rifle n. 步枪，来复枪  v. 用步枪射击
@@ -461,31 +461,32 @@ The gun-related sense appeared in the mid-1800s with the invention of a wooden g
 * gaiter n. 绑腿；长桶橡胶鞋
 * greatecoat n. 厚大衣；外套
 # 20161114
-* hoke v. 对...故作多情
-* contrived adj. 人为的；做作的
+* hoke [həʊk] v. 对...故作多情
+* contrived [kən'traɪvd] adj. 人为的；做作的
 * hokey adj. 虚情假意的
-* hokum n. 胡扯，废话
+* hokum ['hokəm] n. 胡扯，废话
 * blend v. 混合
 * hocus-pocus v./n. 变戏法，哄骗
-* bunkum n. 假话，夸夸其谈的演说
-* theatrical adj. 戏剧性的；剧场的
+* bunkum ['bʌŋkəm] n. 假话，夸夸其谈的演说
+* theatrical [θɪ'ætrɪkl] adj. 戏剧性的；剧场的
 * exaggerate v. 夸大；夸张
 * corny adj. 谷类的；粗野的；陈腐的
 * phony adj. 假的，欺骗的
 * motorcade n. 车队，汽车行列
 * explode v. 爆炸
 * concussion n. 冲击，震荡，脑震荡
-* sober adj. 冷静的；未醉的
+* sober ['sobɚ] adj. 冷静的；未醉的
 * dramatization n. 改编成戏剧
 # 20161115
-* Quid pro quo n. 相等物，交换条件
-* apothecary n. 药剂师
-* fraudulently adv. 欺骗地
+* Quid pro quo ['kwidprəu'kwəu] n. 相等物，交换条件
+* apothecary [ə'pɑθə'kɛri]  n. 药剂师
+* fraudulently ['frɔdjuləntli] adv. 欺骗地
 * extradition n. 引渡
+* treaty ['triti] n. 条约，协议，谈判
 * missionary adj. 传教士的
 * imprisoned adj. 被囚禁的
 * trumped-up 捏造的，伪造的
-* espionage n. 间谍
+* espionage ['ɛspɪənɑʒ] n. 间谍
 # 20161116
 * jejune [dʒɪ'dʒun] adj. 枯燥无味的，幼稚的，缺乏营养的
 * devoid adj. 缺乏的
