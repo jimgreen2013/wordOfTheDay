@@ -139,46 +139,46 @@ rub elbows with 交际，接触
 # 20161013
 * univocal adj. 单一意思的；意思明确的
 source：prefix uni-("one") + vox(Latin noun,meaning voice) --> univocus(Latin word) --> univocal
-* antonym n. 反义词
-* equivocal adj. 模棱两可的；可疑的
+* antonym ['æntənɪm] n. 反义词
+* equivocal [ɪ'kwɪvəkl] adj. 模棱两可的；可疑的
 * etymology n. 语源学
-* beleaguer v. 围攻
-* indigenous adj. 本土的
-* wriggle v. 蜿蜒而行
+* beleaguer [bɪ'liːgə] v. 围攻
+* indigenous [ɪn'dɪdʒənəs] adj. 本土的
+* wriggle ['rɪɡl] v.蠕动， 蜿蜒而行
 * resist v. 抵抗
 * confine n. 边界
 # 20161014
-* nemesis n. 1. 给予惩罚的人；主要对手 2. 
+* nemesis ['nɛməsɪs] n. 1. 给予惩罚的人；主要对手 2. 
 Nemesis was the Greek goddess of vengeance, a deity who doled out rewards for noble acts and punishment for evil ones. 
-* inflict vi. 造成；使遭受（损伤，痛苦等）
-* retribution n. 报应，惩罚，报偿
+* inflict [ɪn'flɪkt] vi. 造成；使遭受（损伤，痛苦等）
+* retribution [,rɛtrɪ'bjuʃən] n. 报应，惩罚，报偿
 * vegeance n. 复仇
-* formidable adj. 强大的
+* formidable ['fɔrmɪdəbl] adj. 强大的
 * victorious adj.胜利的
-* deity n. 神
-* dole vt. 发放救济
+* deity ['deəti]  n. 神
+* dole [dol] vt. 发放救济
 * offender n. 冒犯者
 * animosity ['ænə'mɑsəti] n. 憎恶，仇意
 # 20161015
 * waggish adj. 爱开玩笑的，滑稽的
-* wag vt. 摇摆，饶舌 n. 摇摆，爱说笑打趣的人
+* wag [wæɡ] vt. 摇摆，饶舌 n. 摇摆，爱说笑打趣的人
 * characteristic adj. 典型的
 * good-humored adj. 心情愉快的
 * mischeif n. 恶作剧
-* etymologist n. 语源学学者
-* gllow vt. 恐吓，使害怕
-* prankster n. 爱开玩笑的人，恶作剧的人
+* etymologist [,etɪ'mɒlədʒɪst] n. 语源学学者
+* gallow ['ɡæləʊ] vt. 恐吓，使害怕
+* prankster ['præŋkstə] n. 爱开玩笑的人，恶作剧的人
 * waggery n. 滑稽，玩笑
-* merriment n. 欢喜，嬉戏
-* prank n. 恶作剧
-* clown n. 小丑
-* disposition n. [心里]性情
-* prone adj. 有...倾向的
-* antics n. 滑稽动作
-* banter n. 无恶意的玩笑
-* dump n. 垃圾场
-* isotope n. 同位素
-* radium [化学]镭
+* merriment ['merɪm(ə)nt] n. 欢喜，嬉戏
+* prank [klaʊn] n. 恶作剧
+* clown [klaʊn] n. 小丑
+* disposition ['dɪspə'zɪʃən] n. [心里]性情
+* prone [pron] adj. 有...倾向的
+* antics ['æntɪks] n. 滑稽动作
+* banter ['bæntɚ] n. 无恶意的玩笑
+* dump [dʌmp] n. 垃圾场,仓库
+* isotope ['aɪsə'top] n. 同位素
+* radium ['redɪəm] [化学]镭
 Energy Solutions' business—disposing of low-level nuclear waste in the Utah desert—led to people calling the arena the Dump, the Isotope and Radium Stadium.
 Energy Solution replaced Delta Air Lines on the Utah Jazz's arena a decade ago
 # 20161019
