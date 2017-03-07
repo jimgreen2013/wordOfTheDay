@@ -111,31 +111,31 @@ rub elbows with 交际，接触
 * boor n. 粗野的人
 * wee adj. 极小的；很早的
 # 20161011
-* scion n. 1.接穗 2.子嗣（尤其指名门望族的后代）3.继承人
+* scion ['saɪən] n. 1.接穗 2.子嗣（尤其指名门望族的后代）3.继承人
 * detached adj. 分离的
 * bud n. 芽，萌芽
-* stock n. 树干
+* stock [stɑk] n. 树干,股票
 * grafting n. 嫁接法
-* aristocratic adj. 贵族的
-* sprout n. 芽，萌芽
+* aristocratic [ə,rɪstə'krætɪk] adj. 贵族的
+* sprout [spraʊt] n. 芽，萌芽
 * shoot v. 发芽
-* twig n. 小树枝
-* wither v. 枯萎，凋零
-* horticultural adj. 园艺的
-* figurative adj. 比喻的
+* twig [twɪɡ] n. 小树枝 v. 理解
+* wither ['wɪðɚ] v. 枯萎，凋零
+* horticultural ['hɔrtɪ'kʌltʃɚ] adj. 园艺的
+* figurative ['fɪgərətɪv] adj. 比喻的
 * duke n. 公爵
 * vibe n. 气氛
 * brit n. 英国人（含贬义）
 * eccentric adj. 古怪的
 # 20161012
-* phlegmatic adj. 冷淡的，冷漠的
-* phlegm n. 粘液
-* stolid adj. 迟钝的，缺乏热情的
+* phlegmatic [flɛɡ'mætɪk] adj. 冷淡的，冷漠的
+* phlegm [flɛm] n. 粘液
+* stolid ['stɑlɪd] adj. 迟钝的，缺乏热情的
 * temprament n. 气质，性情
-* bile n. 胆汁
+* bile [baɪl] n. 胆汁
 * impart v. 给予（尤指抽象事物）
 * inflammation n. 炎症
-* sew v. 缝纫，缝合
+* sew [so] v. 缝纫，缝合
 # 20161013
 * univocal adj. 单一意思的；意思明确的
 source：prefix uni-("one") + vox(Latin noun,meaning voice) --> univocus(Latin word) --> univocal
