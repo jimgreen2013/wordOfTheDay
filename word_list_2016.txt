@@ -47,68 +47,68 @@ rub elbows with 交际，接触
 * crook n. 坏蛋
 * catch on with 迎合
 # 20160929
-* cabal n. 阴谋（尤指政治上的）；阴谋集团(Clifford, Arlington, Buckingham, Ashley, and Lauderdale) spell cabal
-* artifice n. 诡计，欺骗
-* intrigue n. 阴谋，诡计
+* cabal [kə'bæl] n. 阴谋（尤指政治上的）；阴谋集团(Clifford, Arlington, Buckingham, Ashley, and Lauderdale) spell cabal
+* artifice ['ɑrtɪfɪs] n. 诡计，欺骗
+* intrigue ['ɪn'triɡ] n. 阴谋，诡计
 * dub vt. 授予称号
-* invidious adj. 引人反感的
+* invidious [ɪn'vɪdɪəs] adj. 引人反感的
 * conservative adj.保守的 n. 保守派 守旧者
 * sway v. 影响
 * conspiracy n. 阴谋
 * ghostwriter n. 受雇代作文章的人
 * biographer n. 传记作者
 * shoddy adj. 假冒的
-* sensationalize vt. 以耸人听闻的手法处理
+* sensationalize [sɛn'seʃənəlaɪz] vt. 以耸人听闻的手法处理
 * misinform vt. 误传；提供错误信息
-* malicious adj. 恶意的
+* malicious [mə'lɪʃəs] adj. 恶意的
 * myth n. 神话，虚构的事
 # 20160930
-* woebegone adj. 悲哀的；寒碜的；忧愁的
-* afflict vt. 折磨
+* woebegone ['wobɪɡɔn] adj. 悲哀的；寒碜的；忧愁的
+* afflict [ə'flɪkt] vt. 折磨
 * woe n. 悲痛
 * woeful adj. 悲哀的，悲惨的
 # 20161001
-* empyreal adj. 苍天的;由纯净之火或光形成的
+* empyreal [,empaɪ'rɪ,əl] adj. 苍天的;由纯净之火或光形成的
 # 20161006
-* vulnerary adj. 医治创伤的
-* plaster n. 膏药
-* remedy n./vt. 补救；治疗
+* vulnerary ['vʌlnə,rɛri] adj. 医治创伤的
+* plaster ['plæstɚ] n. 膏药
+* remedy ['rɛmədi] n./vt. 补救；治疗
 * prescribed adj. 规定的
 * ensuring adj. 接着发生的
 * avert vt. 避免，防止；转移
-* inflammatory adj. 炎症的；煽情的
-* astringgent adj. 止血的
-* antimicrobial adj. 抗菌的
+* inflammatory [ɪn'flæmə'tɔri] adj. 炎症的；煽情的
+* astringgent [ə'strɪndʒənt] adj. 止血的
+* antimicrobial [,æntimaɪ'krobiəl; ,æntaɪ'krobiəl] adj. 抗菌的
 # 20161007
-* macadam n. 碎石路面 （name after inventor John Loudon McAdam）
+* macadam [mə'kædəm] n. 碎石路面 （name after inventor John Loudon McAdam）
 * roadway n. 道路，路面
 * pavement n. 人行道，路面
 * amass v. 积聚，累积
-* trusttee n. 受托人，托管人
+* trustee n. 受托人，托管人
 * inventiveness n. 创造性，发明的才能
 * numerous adj. 许多的，很多的
 * litter v. 乱丢垃圾
 # 20161008
 * trunk n. 树干，躯干
-* truncheon n. 警棍
-* obtruncate vt. 砍去头部
-* receipt n. 收据
+* truncheon ['trʌntʃən] n. 警棍
+* obtruncate [ɑb'trʌŋket] vt. 砍去头部
+* receipt [rɪ'sit] n. 收据
 # 20161009
-* odious adj. 讨厌的 比较级 more odious
+* odious ['odɪəs] adj. 讨厌的 比较级 more odious
 * hatred n. 憎恨；怨恨；敌意
 * repugnance n. 反感；厌恶；抵触
 * scrub v. 擦洗
-* graffito n. 墙上乱写乱画的东西；涂鸦 复数 graffiti
+* graffito [grə'fito] n. 墙上乱写乱画的东西；涂鸦 复数 graffiti
 # 20161010
 * roister vi. 喝酒喧闹
 * revelry n. 狂欢
 * carouse [kə'raʊz] n. 喧闹的酒会或宴会
-* assert vt. 维护，坚持；声称
-* hooliganism n. 流氓行为
-* boisterous adj. 喧闹的；猛烈的
-* chagrin vt. 使...懊恼
-* lout n. 笨拙的 vt.愚弄
-* boor n. 粗野的人
+* assert [ə'sɝt] vt. 维护，坚持；声称
+* hooliganism ['huːlɪɡənɪzəm] n. 流氓行为
+* boisterous ['bɔɪstərəs] adj. 喧闹的；猛烈的
+* chagrin  [ʃə'ɡrɪn] vt. 使...懊恼
+* lout [laʊt] n. 笨拙的 vt.愚弄
+* boor [bɔː; bʊə] n. 粗野的人
 * wee adj. 极小的；很早的
 # 20161011
 * scion ['saɪən] n. 1.接穗 2.子嗣（尤其指名门望族的后代）3.继承人
@@ -678,7 +678,7 @@ Today, salient is usually used to describe things that are physically promient(s
 * artillery [ɑr'tɪləri] n. 火炮，大炮
 * wagon ['wægən] n. 火车，四轮马车
 # 20161209
-* daedal \ˈdē-dəl\ adj. 巧妙的；错综复杂的；丰富多彩的，色彩缤纷的 
+* daedal ['diːdəl] adj. 巧妙的；错综复杂的；丰富多彩的，色彩缤纷的 
 * daedalian [di'deiljən] adj. 巧妙的，错综复杂的
 * artistic [ɑr'tɪstɪk] adj. 艺术的，风雅的，有美感的
 * adorn v. 装饰
